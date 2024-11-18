@@ -1,70 +1,63 @@
-# 🌟 Hi everyone 🌟
+# Hello World 🌐
 
-I'm Yanis MIRAOUI, a Machine Learning enthusiast from Stanford, USA 🌳, with a passion for leveraging data to drive innovation and improvement.
+I'm Yanis MIRAOUI, a Data Scientist from Stanford, USA, passionate about harnessing the power of AI and Machine Learning to drive innovation and positive change. 🌟
 
-## Quick overview 👀
+## Quick Overview
 
-As a Research Data Scientist Intern at Oracle and a Research Assistant at Stanford Computational Neuroscience Laboratory (CNS Lab), I've had the opportunity to work on various projects that combine my love for machine learning, data science, and neuroscience.
+Highly motivated and detail-oriented Data Scientist with a strong background in Mathematics, Statistics, and Computer Science. Proficient in a wide range of programming languages and technologies, with a proven track record of delivering high-quality results in fast-paced environments. 🚀
 
-#### GitHub stats 📊
-<a href="https://github.com/yanismiraoui/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yanismiraoui&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+#### GitHub stats 
+<a href="https://github.com/ymiraoui/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ymiraoui&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>
 
-### Current Projects 🚀
+### Current Projects
 
-- NFT Market Analysis and Trading: Developing an automated trading app on GCP that utilizes machine learning algorithms to predict NFT market trends.
-- Sports Fantasy Prediction and Optimization: Building a Boosting model predicting the performance of athletes in the next game and an algorithm implementing Linear Optimization to assemble fantasy sports teams.
+* Researching and developing state-of-the-art Graph Neural Network models to measure neural fMRI connectivity of different brain parcels at Stanford Computational Neuroscience Laboratory (CNS Lab)
+* Building a multilingual translation tool leveraging LLMs to improve translation quality and reducing content translation time and cost at Snowflake
 
-## My skills 📜
+## My Skills 📜
 
-### Programming Languages 💻
+### Programming Languages
 
-- Python
-- R
-- C
-- SQL
-- NodeJS
+* Python 🐍
+* R 📊
+* C 💻
+* SQL 📈
+* NodeJS 🌐
+* Git 💻
 
-### Data Science and Machine Learning 🤖
+### Cloud Platforms
 
-- Google Cloud Platform
-- AWS
-- Microsoft Azure
-- Snowflake
-- LaTeX
-- Microsoft Office
-- G Suite
+* Google Cloud Platform ☁️
+* AWS 🌳
+* Microsoft Azure 🔷
+* Snowflake ❄️
 
-### Web Technologies 🌐
+### Productivity Utilities
 
-- JavaScript
-- HTML/CSS
+* LaTeX 📝
+* Microsoft Office 📊
+* G Suite 📈
 
-### Productivity Utilities 📊
-
-- Microsoft Office
-- G Suite
-
-### Languages 🌎
+### Languages 🌐
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| French        | Native                                                                   |
-| Moroccan      | Fluent                                                                   |
-| English       | Fluent                                                                   |
-| German        | Professional proficiency                                                  |
-| Spanish       | Fluent                                                                   |
-| Arabic        | Intermediate                                                             |
+| French        | Native   👍                                |
+| Moroccan      | Fluent  👌                                 |
+| English       | Fluent  👌                                 |
+| German        | Professional proficiency 📈                 |
+| Spanish       | Fluent  👌                                 |
+| Arabic        | Intermediate 🤔                              |
 
 ## What I'm currently learning 📚
 
-- Advanced Machine Learning techniques
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Data Engineering
+* Advanced Machine Learning techniques 🤖
+* Natural Language Processing (NLP) 📚
+* Deep Learning 📊
 
-## Let's connect 🤝
+### Personal Projects
 
-Feel free to reach out to me on LinkedIn or Twitter to discuss potential collaborations or just to chat about Machine Learning and Data Science! 🤖
+* NFT Market Analysis and Trading 📈
+* Sports Fantasy Prediction and Optimization 🏈
