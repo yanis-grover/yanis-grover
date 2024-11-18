@@ -1,54 +1,55 @@
-# 👋 Hi everyone! :wave:
+# Hi everyone 👋
 
-I'm Yanis MIRAOUI, a **Research Data Scientist Intern** at Oracle and a **Research Assistant** at Stanford Computational Neuroscience Laboratory (CNS Lab), with a passion for **Machine Learning**, **Data Science**, and **Neural Networks** 🤖.
+I'm Yanis MIRAOUI, a Research Data Scientist from Stanford, USA 🌳. I'm passionate about leveraging data science and machine learning to drive business growth and improve people's lives.
 
 ## Quick overview
 
-I'm a **MS Statistics & Data Science** student at Stanford University, with a background in **Mathematics** from Imperial College London & ETH Zürich. I'm fluent in multiple languages, including French, Moroccan, English, German, Spanish, and Arabic.
+As a data science enthusiast, I've had the opportunity to work on various projects and collaborate with cross-functional teams. My experience spans from research to industry, with a strong focus on machine learning, data science, and software development.
 
-## GitHub stats 📊
-
+#### GitHub stats 📊
 <a href="https://github.com/yanis-grover/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yanis-grover&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>
 
-## Current Projects 📈
+### Current Projects
 
-* **NFT Market Analysis and Trading**: Developing an automated trading app on GCP that utilizes machine learning algorithms to predict NFT market trends, generating over $2,200 in monthly revenue.
-* **Sports Fantasy Prediction and Optimization**: Building a Boosting model predicting the performance of athletes in the next game, and an algorithm implementing Linear Optimization to assemble fantasy sports teams.
+* NFT Market Analysis and Trading: Developing an automated trading app on GCP that utilizes machine learning algorithms to predict NFT market trends.
+* Sports Fantasy Prediction and Optimization: Building a Boosting model predicting the performance of athletes in the next game and an algorithm implementing Linear Optimization to assemble fantasy sports teams.
 
 ## My skills 📜
 
-### Programming languages
+### Web technologies
 
-* Python 🐍
-* R 📊
-* C 🚀
+* Python 🔥
+* R 📈
+* C 🔄
 * SQL 💻
-* NodeJS 📈
-* LaTeX 📝
-* Microsoft Office 📊
-* G Suite 📈
-
-### Cloud platforms
-
-* Google Cloud Platform 🌫️
-* AWS 📈
-* Microsoft Azure 🌊
+* NodeJS 🔗
+* Git 📁
+* Google Cloud Platform ☁️
+* AWS ☁️
+* Microsoft Azure ☁️
 * Snowflake ❄️
-
-### Tools and technologies
-
-* Git 🔩
+* LaTeX 📜
 * Microsoft Office 📊
-* G Suite 📈
-* LaTeX 📝
+* G Suite 📁
+
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| French        | Native 🇫🇷                                                              |
+| English       | Fluent 🇺🇸                                                              |
+| Spanish       | Fluent 🇪🇸                                                              |
+| German        | Professional proficiency 🇩🇪                                          |
+| Arabic        | Intermediate 🇸🇦                                                       |
+| Moroccan      | Fluent 🇲🇦                                                              |
 
 ## What I'm currently learning 📚
 
-* **Graph Neural Networks**: Exploring the applications of GNNs in neural connectivity and brain parcel analysis.
-* **Large Language Models**: Investigating the use of LLMs in workflow automation, chatbots, and multilingual translation tools.
+* Advanced machine learning techniques
+* Deep learning
+* Natural language processing
+* Computer vision
 
-## Let's connect! 🤝
-
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yanismiraoui/) or [Twitter](https://twitter.com/yanis_miraoui). Let's discuss the latest advancements in AI, Machine Learning, and Data Science! 💬
+Feel free to connect with me on LinkedIn or follow me on GitHub to stay updated on my projects and research! 💻
