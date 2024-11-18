@@ -1,99 +1,93 @@
-# Hi everyone :wave:
+# Yanis MIRAOUI
 
-I'm Yanis MIRAOUI, a Research Data Scientist from Stanford, USA, with a passion for harnessing the power of data science and machine learning to drive innovation and improvement.
+Stanford, USA | +1 (650) 505 3509 | ymiraoui@stanford.edu | https://yanis.miraoui.com/
 
-## Quick overview
+## EDUCATION
 
-Highly motivated and detail-oriented data science professional with a strong academic background in Mathematics and Statistics & Data Science. Proven track record of delivering high-impact projects in various industries, including research, finance, and sports.
+* Stanford University Stanford, USA MS Statistics & Data Science September 2023 - June 2025
+* Imperial College London & ETH Zürich London, UK – Zürich, Switzerland MSci Mathematics, Grade: First-Class Honors October 2019 - June 2023
 
-#### GitHub stats 
-<-- To be added -->
+## LANGUAGES
 
-### Current Projects
+* French: Native
+* Moroccan: Fluent
+* English: Fluent
+* German: Professional proficiency
+* Spanish: Fluent
+* Arabic: Intermediate
 
-- NFT Market Analysis and Trading: Developing an automated trading app on GCP that utilizes machine learning algorithms to predict NFT market trends, generating over $2,200 in monthly revenue.
-- Sports Fantasy Prediction and Optimization: Building a Boosting model predicting the performance of athletes in the next game and an algorithm implementing Linear Optimization to assemble fantasy sports teams.
+## PROFESSIONAL EXPERIENCES
 
-### What I do
+### Oracle
 
-I design, implement, and evaluate data-driven solutions to complex problems, leveraging my expertise in machine learning, programming, and data analysis. I have a strong passion for research and innovation, with a proven track record of delivering high-impact projects in various industries.
+Redwood City, USA Research Data Scientist Intern September 2024 - Present
 
-## My skills 
+* Designed, implemented, and evaluated fully integrated LLM Agents at Oracle Labs, improving workflow automation for data scientists
+* Collaborated with cross-functional teams to identify optimization opportunities, leveraging LLMs to improve agent accuracy
 
-### Programming languages
+### Stanford Computational Neuroscience Laboratory (CNS Lab)
 
-- Python
-- R
-- C
-- SQL
-- NodeJS
+Stanford, USA Research Assistant  September 2023 – Present
 
-### Cloud platforms
+* Built state-of-the-art Graph Neural Network models to measure neural fMRI connectivity of different brain parcels
+* Developed an optimal parcellation method of brain regions reducing computational complexity and processing time for a wide range of downstream tasks by 70%
+* Published and presented my research findings on GNN models for neural connectivity at the MICCAI 2024 conference
 
-- Google Cloud Platform (GCP)
-- Amazon Web Services (AWS)
-- Microsoft Azure
-- Snowflake
+### Snowflake
 
-### Productivity utilities
+San Mateo, USA Applied Research Data Scientist Intern June 2024 - August 2024
 
-- Microsoft Office
-- G Suite
-- LaTeX
+* Developed a RAG chatbot enhancing sales team efficiency by integrating knowledge from PDFs and web pages
+* Built a multilingual translation tool leveraging LLMs to improve translation quality and reducing content translation time and cost
+* Led the creation of a forecasting model accurately predicting Sales Qualified Opportunities (SQOs) with less than 12% error rate
 
-### Languages 
+### Stanford University
 
-| Language      | Proficiency                                                               |
-| ------------- | ------------------------------------------------------------------------- |
-| French        | Native                                                                   |
-| Moroccan      | Fluent                                                                   |
-| English       | Fluent                                                                   |
-| German        | Professional proficiency                                                 |
-| Spanish       | Fluent                                                                   |
-| Arabic        | Intermediate                                                             |
+Stanford, USA Course Assistant for CS 229, CS 225, MS&E 211DS & CS 236 September 2023 – August 2024
 
-## What I'm currently learning 
+* Led engaging weekly discussion sections, answered questions, and provided guidance on course content
+* Lectured classes on advanced techniques for applying optimization in Machine Learning and Data Science
+* Designed and graded assignments and exams, as well as mentored students’ final projects
 
-- Advanced machine learning techniques
-- Deep learning
-- Natural language processing
+### Egoli Media
 
-## My experience
+Remote AI Researcher Intern August 2021 - September 2021
 
-### Research Data Scientist Intern, Oracle (September 2024 - Present)
+* Created a machine learning face recognition application using OpenCV and Dlib that can accurately identify athletes regardless of the way their faces are posed or if they are wearing eyeglasses or sunglasses
+* Built NLP models using Transformers and sentiment analysis to classify sports commentaries and extract insights of sports events — achieved generalization accuracy of 82% on data from diverse sources
 
-- Designed, implemented, and evaluated fully integrated LLM Agents at Oracle Labs, improving workflow automation for data scientists
-- Collaborated with cross-functional teams to identify optimization opportunities, leveraging LLMs to improve agent accuracy
+### Sopra Steria Group
 
-### Research Assistant, Stanford Computational Neuroscience Laboratory (CNS Lab) (September 2023 - Present)
+Rennes, France Machine Learning Engineer Intern June 2021 - August 2021
 
-- Built state-of-the-art Graph Neural Network models to measure neural fMRI connectivity of different brain parcels
-- Developed an optimal parcellation method of brain regions reducing computational complexity and processing time for a wide range of downstream tasks by 70%
-- Published and presented my research findings on GNN models for neural connectivity at the MICCAI 2024 conference
+* Led an entire machine learning project from conception to implementation for customer service for a French telecom company
+* Developed a full machine learning CI/CD pipeline leveraging BERT to reduce the resolution time of support tickets by +60%
 
-### Applied Research Data Scientist Intern, Snowflake (June 2024 - August 2024)
+## LEADERSHIP
 
-- Developed a RAG chatbot enhancing sales team efficiency by integrating knowledge from PDFs and web pages
-- Built a multilingual translation tool leveraging LLMs to improve translation quality and reducing content translation time and cost
-- Led the creation of a forecasting model accurately predicting Sales Qualified Opportunities (SQOs) with less than 12% error rate
+### CODE4GREEN Hackathon
 
-### Course Assistant, Stanford University (September 2023 - August 2024)
+Berlin, Germany Winner July 2020
 
-- Led engaging weekly discussion sections, answered questions, and provided guidance on course content
-- Lectured classes on advanced techniques for applying optimization in Machine Learning and Data Science
-- Designed and graded assignments and exams, as well as mentored students’ final projects
+* Developed a machine learning application using Python that can detect with satellite imagery the pollution routes and cycles over rivers and seas to allow NGOs to better understand and target risk areas
+* Awarded €3,000 for developing a machine learning application detecting pollution routes in water bodies using satellite imagery
 
-### AI Researcher Intern, Egoli Media (August 2021 - September 2021)
+## PERSONAL PROJECTS
 
-- Created a machine learning face recognition application using OpenCV and Dlib that can accurately identify athletes regardless of the way their faces are posed or if they are wearing eyeglasses or sunglasses
-- Built NLP models using Transformers and sentiment analysis to classify sports commentaries and extract insights of sports events — achieved generalization accuracy of 82% on data from diverse sources
+### NFT Market Analysis and Trading
 
-### Machine Learning Engineer Intern, Sopra Steria Group (June 2021 - August 2021)
+January 2022 - Present
 
-- Led an entire machine learning project from conception to implementation for customer service for a French telecom company
-- Developed a full machine learning CI/CD pipeline leveraging BERT to reduce the resolution time of support tickets by +60%
+* Developed an automated trading app on GCP that utilizes machine learning algorithms to predict NFT market trends, generating over $2,200 in monthly revenue.
+* Created a dashboard using Dash and Heroku to visualize and summarize results as well as to optimize portfolio management
 
-### Winner, CODE4GREEN Hackathon (July 2020)
+### Sports Fantasy Prediction and Optimization
 
-- Developed a machine learning application using Python that can detect with satellite imagery the pollution routes and cycles over rivers and seas to allow NGOs to better understand and target risk areas
-- Awarded €3,000 for developing a machine learning application detecting pollution routes in water bodies using satellite imagery
+January 2021 – December 2023
+
+* Gathered and engineered multiple datasets to build a Boosting model predicting the performance of athletes in the next game
+* Built an algorithm implementing Linear Optimization to assemble fantasy sports teams, to earn +$3,000 in Daily Fantasy Contests
+
+## SKILLS AND PERSONAL INTERESTS
+
+* Python, R, C, SQL, NodeJS, Git, Google Cloud Platform, AWS, Microsoft Azure, Snowflake, LaTeX, Microsoft Office, G Suite
