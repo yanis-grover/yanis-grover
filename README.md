@@ -1,39 +1,54 @@
-# Yanis MIRAOUI
+# 👋 Hi everyone! :wave:
 
-Stanford, USA | +1 (650) 505 3509 | ymiraoui@stanford.edu | https://yanis.miraoui.com/
+I'm Yanis MIRAOUI, a **Research Data Scientist Intern** at Oracle and a **Research Assistant** at Stanford Computational Neuroscience Laboratory (CNS Lab), with a passion for **Machine Learning**, **Data Science**, and **Neural Networks** 🤖.
 
-## EDUCATION
+## Quick overview
 
-* Stanford University Stanford, USA MS Statistics & Data Science September 2023 - June 2025
-* Imperial College London & ETH Zürich London, UK – Zürich, Switzerland MSci Mathematics, Grade: First-Class Honors October 2019 - June 2023
+I'm a **MS Statistics & Data Science** student at Stanford University, with a background in **Mathematics** from Imperial College London & ETH Zürich. I'm fluent in multiple languages, including French, Moroccan, English, German, Spanish, and Arabic.
 
-## LANGUAGES
+## GitHub stats 📊
 
-* French: Native
-* Moroccan: Fluent
-* English: Fluent
-* German: Professional proficiency
-* Spanish: Fluent
-* Arabic: Intermediate
+<a href="https://github.com/yanis-grover/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yanis-grover&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>
 
-## PROFESSIONAL EXPERIENCES
+## Current Projects 📈
 
-* Oracle Redwood City, USA Research Data Scientist Intern September 2024 - Present
-* Stanford Computational Neuroscience Laboratory (CNS Lab)  Stanford, USA Research Assistant  September 2023 – Present
-* Snowflake San Mateo, USA Applied Research Data Scientist Intern June 2024 - August 2024
-* Stanford University Stanford, USA Course Assistant for CS 229, CS 225, MS&E 211DS & CS 236 September 2023 – August 2024
-* Egoli Media Remote AI Researcher Intern August 2021 - September 2021
-* Sopra Steria Group Rennes, France Machine Learning Engineer Intern June 2021 - August 2021
+* **NFT Market Analysis and Trading**: Developing an automated trading app on GCP that utilizes machine learning algorithms to predict NFT market trends, generating over $2,200 in monthly revenue.
+* **Sports Fantasy Prediction and Optimization**: Building a Boosting model predicting the performance of athletes in the next game, and an algorithm implementing Linear Optimization to assemble fantasy sports teams.
 
-## LEADERSHIP
+## My skills 📜
 
-* CODE4GREEN Hackathon Berlin, Germany Winner July 2020
+### Programming languages
 
-## PERSONAL PROJECTS
+* Python 🐍
+* R 📊
+* C 🚀
+* SQL 💻
+* NodeJS 📈
+* LaTeX 📝
+* Microsoft Office 📊
+* G Suite 📈
 
-* NFT Market Analysis and Trading  January 2022 - Present
-* Sports Fantasy Prediction and Optimization  January 2021 – December 2023
+### Cloud platforms
 
-## SKILLS AND PERSONAL INTERESTS
+* Google Cloud Platform 🌫️
+* AWS 📈
+* Microsoft Azure 🌊
+* Snowflake ❄️
 
-* Python, R, C, SQL, NodeJS, Git, Google Cloud Platform, AWS, Microsoft Azure, Snowflake, LaTeX, Microsoft Office, G Suite
+### Tools and technologies
+
+* Git 🔩
+* Microsoft Office 📊
+* G Suite 📈
+* LaTeX 📝
+
+## What I'm currently learning 📚
+
+* **Graph Neural Networks**: Exploring the applications of GNNs in neural connectivity and brain parcel analysis.
+* **Large Language Models**: Investigating the use of LLMs in workflow automation, chatbots, and multilingual translation tools.
+
+## Let's connect! 🤝
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yanismiraoui/) or [Twitter](https://twitter.com/yanis_miraoui). Let's discuss the latest advancements in AI, Machine Learning, and Data Science! 💬
