@@ -1,52 +1,39 @@
-# Hi everyone
-I'm Yanis MIRAOUI, a Research Data Scientist from Stanford, USA. I'm passionate about leveraging AI and Machine Learning to drive business growth and solve complex problems.
+# Yanis MIRAOUI
 
-## Quick overview
-I'm a MS Statistics & Data Science student at Stanford University, with a background in Mathematics from Imperial College London and ETH Zürich. I've had the opportunity to work with top companies like Oracle, Snowflake, and Sopra Steria Group, and I'm excited to share my experiences and projects with you.
+Stanford, USA | +1 (650) 505 3509 | ymiraoui@stanford.edu | https://yanis.miraoui.com/
 
-## My skills
-### Programming languages
+## EDUCATION
 
-* Python
-* R
-* C
-* SQL
-* NodeJS
-* LaTeX
+* Stanford University Stanford, USA MS Statistics & Data Science September 2023 - June 2025
+* Imperial College London & ETH Zürich London, UK – Zürich, Switzerland MSci Mathematics, Grade: First-Class Honors October 2019 - June 2023
 
-### Cloud platforms
+## LANGUAGES
 
-* Google Cloud Platform
-* AWS
-* Microsoft Azure
-* Snowflake
+* French: Native
+* Moroccan: Fluent
+* English: Fluent
+* German: Professional proficiency
+* Spanish: Fluent
+* Arabic: Intermediate
 
-### Productivity utilities
+## PROFESSIONAL EXPERIENCES
 
-* Microsoft Office
-* G Suite
+* Oracle Redwood City, USA Research Data Scientist Intern September 2024 - Present
+* Stanford Computational Neuroscience Laboratory (CNS Lab)  Stanford, USA Research Assistant  September 2023 – Present
+* Snowflake San Mateo, USA Applied Research Data Scientist Intern June 2024 - August 2024
+* Stanford University Stanford, USA Course Assistant for CS 229, CS 225, MS&E 211DS & CS 236 September 2023 – August 2024
+* Egoli Media Remote AI Researcher Intern August 2021 - September 2021
+* Sopra Steria Group Rennes, France Machine Learning Engineer Intern June 2021 - August 2021
 
-### Languages
+## LEADERSHIP
 
-| Language      | Proficiency                                                               |
-| ------------- | ------------------------------------------------------------------------- |
-| French        | Native                                                                 |
-| Moroccan      | Fluent                                                                  |
-| English       | Fluent                                                                  |
-| German        | Professional proficiency                                               |
-| Spanish       | Fluent                                                                  |
-| Arabic        | Intermediate                                                            |
+* CODE4GREEN Hackathon Berlin, Germany Winner July 2020
 
-## Current Projects
+## PERSONAL PROJECTS
 
-* NFT Market Analysis and Trading
-* Sports Fantasy Prediction and Optimization
+* NFT Market Analysis and Trading  January 2022 - Present
+* Sports Fantasy Prediction and Optimization  January 2021 – December 2023
 
-## What I'm currently learning
+## SKILLS AND PERSONAL INTERESTS
 
-* Advanced Machine Learning techniques
-* Natural Language Processing
-* Computer Vision
-
-## Let's connect!
-Feel free to reach out to me on LinkedIn, Twitter, or via email. Let's collaborate on exciting projects and drive innovation together!
+* Python, R, C, SQL, NodeJS, Git, Google Cloud Platform, AWS, Microsoft Azure, Snowflake, LaTeX, Microsoft Office, G Suite
